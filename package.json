@@ -1,5 +1,5 @@
 {
-  "name": "BetaBOT",
+  "name": "CptyMBots",
   "version": "1.0.0",
   "description": "bot wa simple",
   "main": "index.js",
@@ -39,10 +39,10 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Ahmad Ariiq Khoironi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/AriiqDesign/CptyMBots/issues"
   },
-  "homepage": "https://github.com/#readme"
+  "homepage": "https://github.com/AriiqDesign/CptyMBots#readme"
 }
